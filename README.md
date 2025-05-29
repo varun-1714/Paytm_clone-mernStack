@@ -12,7 +12,7 @@ This project is a **responsive Paytm homepage clone** built using **only HTML an
 
 ## 📸 Screenshots
 
-![Paytm Clone Screenshot](./assets/screenshot.png)
+![Paytm Clone Screenshot](./Paytm_clone-mernStack/Screenshot_30-5-2025_2346_varun-1714.github.io.jpeg)
 
 ---
 
