@@ -39,5 +39,5 @@ This project is a **responsive Paytm homepage clone** built using **only HTML an
 
 ---
 
-## 📁 Folder Structure
+
 
